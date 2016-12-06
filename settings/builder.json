@@ -1,0 +1,22 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.lottery",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "0499b6a9-d040-474a-b4e1-e3f710fe2e4b",
+  "title": "CocosLottery",
+  "webOrientation": "auto"
+}

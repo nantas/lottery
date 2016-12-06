@@ -1,0 +1,18 @@
+{
+    "version": "1.4.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome against localhost, with sourcemaps",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:7456",
+            "sourceMaps": true,
+            "userDataDir": "${workspaceRoot}/.vscode/chrome",
+            "diagnosticLogging": true,
+            "sourceMapPathOverrides": {
+                "assets/*": "${workspaceRoot}/assets/*"
+            },
+            "webRoot": "${workspaceRoot}"
+        }
+    ]
+}
